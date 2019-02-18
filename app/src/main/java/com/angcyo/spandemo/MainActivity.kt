@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
             .appendSpace(10)
             .appendImage(
                 RUtils.tintDrawable(
-                    ContextCompat.getDrawable(application, R.drawable.ic_icon_temp)!!,
+                    ContextCompat.getDrawable(application, R.drawable.ic_icon_temp2)!!,
                     Color.RED
                 ),
                 SpanUtils.ALIGN_CENTER
